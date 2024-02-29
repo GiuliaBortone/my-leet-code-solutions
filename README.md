@@ -1,6 +1,6 @@
 ### Hello everyone!
 
-I created this repository to solve LeetCode problems. I wanted to approach them in a different way than how you'd do
+I created this repository to solve [LeetCode problems](https://leetcode.com/problemset/). I wanted to approach them in a different way than how you'd do
 on LeetCode itself, where you have the tests already done and you simply write the code to make it run.
 
 I'm going to solve them with a [TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html) approach, starting from
